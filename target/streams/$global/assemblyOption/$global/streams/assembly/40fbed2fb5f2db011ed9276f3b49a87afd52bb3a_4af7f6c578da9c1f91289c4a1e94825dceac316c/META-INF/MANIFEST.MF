@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1412775328363
+Bundle-ManifestVersion: 2
+Bundle-Name: io.spray.httpx
+Bundle-SymbolicName: io.spray.httpx
+Bundle-Version: 1.3.2
+Created-By: 1.7.0_51 (Oracle Corporation)
+Export-Package: spray.httpx;version="1.3.2";uses:="akka.actor,akka.event
+ ,net.liftweb.json,org.json4s,org.json4s.jackson,org.json4s.native,play.
+ api.data.validation,play.api.libs.json,play.twirl.api,scala,scala.colle
+ ction,scala.collection.immutable,scala.concurrent,scala.reflect,scala.r
+ untime,scala.util,spray.http,spray.httpx.encoding,spray.httpx.marshalli
+ ng,spray.httpx.unmarshalling,spray.json,twirl.api",spray.httpx.encoding
+ ;version="1.3.2";uses:="scala,scala.reflect,scala.runtime,spray.http",s
+ pray.httpx.marshalling;version="1.3.2";uses:="akka.actor,akka.spray,akk
+ a.util,scala,scala.collection,scala.collection.immutable,scala.concurre
+ nt,scala.reflect,scala.runtime,scala.util,scala.xml,spray.http",spray.h
+ ttpx.unmarshalling;version="1.3.2";uses:="org.jvnet.mimepull,scala,scal
+ a.collection,scala.collection.immutable,scala.reflect,scala.runtime,sca
+ la.util,scala.xml,spray.http"
+Import-Package: scala;version="[2.11,2.12)",scala.collection;version="[2
+ .11,2.12)",scala.collection.convert;version="[2.11,2.12)",scala.collect
+ ion.generic;version="[2.11,2.12)",scala.collection.immutable;version="[
+ 2.11,2.12)",scala.collection.mutable;version="[2.11,2.12)",scala.concur
+ rent;version="[2.11,2.12)",scala.concurrent.duration;version="[2.11,2.1
+ 2)",scala.reflect;version="[2.11,2.12)",scala.runtime;version="[2.11,2.
+ 12)",scala.sys;version="[2.11,2.12)",scala.util;version="[2.11,2.12)",s
+ cala.util.control;version="[2.11,2.12)",scala.xml;version="[2.11,2.12)"
+ ,scala.xml.factory;version="[2.11,2.12)",spray.json;resolution :=option
+ al;version="[1.3,2)",net.liftweb.json;resolution :=optional,org.json4s;
+ resolution :=optional,org.json4s.jackson;resolution :=optional,org.json
+ 4s.native;resolution :=optional,twirl.api;resolution :=optional,play.ap
+ i.data.validation;resolution :=optional,play.api.libs.json;resolution :
+ =optional,play.twirl.api;resolution :=optional,akka.spray;version="1.3.
+ 2",akka.actor;version="[2.3,2.4)",akka.event;version="[2.3,2.4)",akka.i
+ o;version="[2.3,2.4)",akka.util;version="[2.3,2.4)",javax.xml.parsers,o
+ rg.jvnet.mimepull;version="[1.9,2)",org.parboiled.common;version="[1.1,
+ 2)",org.xml.sax,spray.http,spray.http.parser,spray.util,spray.util.pimp
+ s
+Tool: Bnd-2.1.0.20130426-122213

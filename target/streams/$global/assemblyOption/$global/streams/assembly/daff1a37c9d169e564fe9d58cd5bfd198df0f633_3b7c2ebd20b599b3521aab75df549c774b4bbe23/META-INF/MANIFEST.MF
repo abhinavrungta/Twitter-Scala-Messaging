@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: com.chuusai
+Implementation-Title: shapeless-core
+Implementation-Version: 1.2.4
+Implementation-Vendor-Id: com.chuusai
+Specification-Vendor: com.chuusai
+Specification-Title: shapeless-core
+Specification-Version: 1.2.4
+

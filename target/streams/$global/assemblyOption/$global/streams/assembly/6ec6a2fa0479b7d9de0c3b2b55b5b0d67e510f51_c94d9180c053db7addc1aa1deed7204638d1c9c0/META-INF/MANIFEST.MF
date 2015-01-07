@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: default
+Implementation-Title: project5
+Implementation-Version: 1.0
+Implementation-Vendor-Id: default
+Specification-Vendor: default
+Specification-Title: project5
+Specification-Version: 1.0
+

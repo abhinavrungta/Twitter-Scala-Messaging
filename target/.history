@@ -1,0 +1,56 @@
+compile
+eclipse
+exit
+compile
+run-main Project4Client 5000 1000 192.168.0.16
+run-main Project4Client 500 100 192.168.0.16
+compile
+run-main Project4Client 500 100 192.168.0.16
+compile
+run-main Project4Client 500 100 192.168.0.16
+compile
+run-main Project4Client 500 100 192.168.0.16
+compile
+run-main Project4Client 500 100 192.168.0.16
+compile
+run-main Project4Client 500 100 192.168.0.16
+compile
+run-main HttpServer 192.168.0.16
+run-main Project4Client 500 100 192.168.0.16
+run-main Project4Client 5000 1000 192.168.0.16
+compile
+run-main Project4Client 5000 1000 192.168.0.16
+compile
+run-main Project4Client 5000 1000 192.168.0.16
+compile
+run-main Project4Server
+run-main HttpServer 192.168.0.16
+run-main Project4Client 5000 1000 192.168.0.16
+compile
+run-main Project4Server
+run-main Project4Client 5000 1000 192.168.0.16
+compile
+run-main Project4Client 5000 1000 192.168.0.16
+compile
+run-main Project4Client 5000 1000 192.168.0.16
+compile
+run-main Project4Client 5000 1000 192.168.0.16
+compile
+run-main Project4Client 5000 1000 192.168.0.16
+compile
+run-main Project4Client 5000 1000 192.168.0.16
+compile
+run-main Project4Client 5000 1000 192.168.0.16
+compile
+run-main Project4Client 5000 1000 192.168.0.16
+compile
+run-main Project4Client 5000 1000 192.168.0.16
+compile
+run-main Project4Client 5000 1000 192.168.0.16
+package
+publish
+exit
+run-main main.scala.HttpServer 5 192.168.0.16
+comiple
+compile
+run-main main.scala.HttpServer 5 192.168.0.16

@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging /Users/abhinavrungta/bitcoin/project5/target/scala-2.11/project5_2.11-1.0-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	HttpServer.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/abhinavrungta/bitcoin/project5/src/main/scala/HttpServer.scala[0m
+[0m[[0mdebug[0m] [0m	Formats.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/abhinavrungta/bitcoin/project5/src/main/scala/Formats.scala[0m
+[0m[[0mdebug[0m] [0m	Project4Client.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/abhinavrungta/bitcoin/project5/src/main/scala/Project4Client.scala[0m
+[0m[[0mdebug[0m] [0m	MainApp.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/abhinavrungta/bitcoin/project5/src/main/scala/MainApp.java[0m
+[0m[[0mdebug[0m] [0m	Project4Server.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/abhinavrungta/bitcoin/project5/src/main/scala/Project4Server.scala[0m
+[0m[[0mdebug[0m] [0m	PDF.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/abhinavrungta/bitcoin/project5/src/main/scala/PDF.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
